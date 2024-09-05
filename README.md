@@ -1,17 +1,12 @@
 # Gemini AI IClone
 
-https://dasilvabonfim.github.io/cloneGeminiAI/
-
-![image](https://github.com/dasilvabonfim/cloneGeminiAI/assets/112987011/e5ccab0c-a816-4a41-9f50-5b8c8c2b1b23)
-
-![image](https://github.com/dasilvabonfim/cloneGeminiAI/assets/112987011/2a5835c4-8fb8-4911-96c6-dc0d6d89d71e)
 
 ## Descrição
 Este repositório contém o código para uma versão clonada da interface da Gemini AI. O clone replica a aparência e funcionalidade da interface original da Gemini AI, integrando minhas próprias características personalizadas usando a API da Gemini AI. Recentemente, o código foi atualizado para utilizar a versão 1.5 do Gemini, oferecendo ainda mais recursos e funcionalidades.
 
 ## Como Usar
 
-1. **Clone este repositório** para sua máquina local usando `git clone https://github.com/dasilvabonfim/cloneGeminiAI.git`.
+1. **Clone este repositório** para sua máquina local.
 
 2. **Navegue até o diretório do projeto** no terminal.
 
